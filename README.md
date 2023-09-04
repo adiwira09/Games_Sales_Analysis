@@ -1,6 +1,6 @@
-Projeck Mini Course dari RevoU Academy
+Projeck Mini Course dari RevoU Academy.
 
-Diberikan 5 pertanyaan untuk dijadikan insight analisis dan mem-visualiasikan
+Diberikan 5 pertanyaan untuk dijadikan insight analisis dan mem-visualiasikan.
 1. Game apa yang tertua dan game terbaru dalam dataset ?
 2. Publisher mana yang menerbitkan game paling banyak ?
 3. Developer mana yang paling banyak mengembangkan(developed) game ?
@@ -10,4 +10,6 @@ Diberikan 5 pertanyaan untuk dijadikan insight analisis dan mem-visualiasikan
 Saya menggunakan python untuk membersihkan data dan memvisualisasikan menggunakan platform looker studio
 https://lookerstudio.google.com/
 
-Hasil analisis pada file Case Study Revou Mini Course- Games Sales.pdf. Thank you
+Hasil analisis pada file Case Study Revou Mini Course- Games Sales.pdf.
+
+Thank you
