@@ -10,6 +10,6 @@ Diberikan 5 pertanyaan untuk dijadikan insight analisis dan mem-visualiasikan.
 Saya menggunakan python untuk membersihkan data dan memvisualisasikan menggunakan platform looker studio
 https://lookerstudio.google.com/
 
-Hasil analisis pada file Case Study Revou Mini Course- Games Sales.pdf.
+Hasil analisis pada file **Case Study Revou Mini Course- Games Sales.pdf**
 
 Thank you
